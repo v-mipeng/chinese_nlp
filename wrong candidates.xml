@@ -1,48 +1,10 @@
-<mention id="CNS_CMN_20100127.0802_160_161">
-	<docid>CNS_CMN_20100127.0802</docid>
-	<name>残联</name>
-	<begin>160</begin>
-	<end>161</end>
+<mention id="CNS_CMN_20100412.0068_60_61">
+	<docid>CNS_CMN_20100412.0068</docid>
+	<name>通州</name>
+	<begin>60</begin>
+	<end>61</end>
 	<candidate>nil</candidate>
-	<entity_id>m.oj9ktcx</entity_id>
-<result>wrong</result>
-</mention>
-<mention id="PDA_CMN_20101003.0007_168_170">
-	<docid>PDA_CMN_20101003.0007</docid>
-	<name>外交部</name>
-	<begin>168</begin>
-	<end>170</end>
-	<candidate>m.01t_55</candidate>
-	<candidate_name>[外交部]</candidate_name>
-	<candidate>m.05b4kqr</candidate>
-	<candidate_name>[外交部]</candidate_name>
-	<candidate>m.03k0qv</candidate>
-	<candidate_name>[外务省]</candidate_name>
-	<candidate>m.0191_p</candidate>
-	<candidate_name>[外交]</candidate_name>
-	<candidate>m.0bvtd</candidate>
-	<candidate_name>[外交]</candidate_name>
-	<candidate>m.0bvsx</candidate>
-	<candidate_name>[外交]</candidate_name>
-	<candidate>m.080ntlp</candidate>
-	<candidate_name>[外交家, 外交官]</candidate_name>
-	<candidate>m.04cxmg</candidate>
-	<candidate_name>[伊朗外交部]</candidate_name>
-	<candidate>m.04f0x12</candidate>
-	<candidate_name>[缅甸外交部]</candidate_name>
-	<candidate>m.03c2syq</candidate>
-	<candidate_name>[苏联外交部]</candidate_name>
-	<candidate>m.0czb3d4</candidate>
-	<candidate_name>[希腊外交部]</candidate_name>
-	<candidate>m.028b8j9</candidate>
-	<candidate_name>[荷兰外交部]</candidate_name>
-	<candidate>m.06zgmb</candidate>
-	<candidate_name>[德国外交部]</candidate_name>
-	<candidate>m.01l2_d</candidate>
-	<candidate_name>[法国外交部]</candidate_name>
-	<candidate>m.025_nxz</candidate>
-	<candidate_name>[芬兰外交部]</candidate_name>
-	<entity_id>m.02626pc</entity_id>
+	<entity_id>m.06zqdg</entity_id>
 <result>wrong</result>
 </mention>
 <mention id="AFP_CMN_20100111.0011_354_357">
@@ -54,18 +16,6 @@
 	<entity_id>m.0rj0z</entity_id>
 <result>wrong</result>
 </mention>
-<mention id="bolt-cmn-DF-20-191610-2207165_4108_4110">
-	<docid>bolt-cmn-DF-20-191610-2207165</docid>
-	<name>薄书记</name>
-	<begin>4108</begin>
-	<end>4110</end>
-	<candidate>m.026gttk</candidate>
-	<candidate_name>[书记]</candidate_name>
-	<candidate>m.025f94</candidate>
-	<candidate_name>[总书记]</candidate_name>
-	<entity_id>m.02lwg2</entity_id>
-<result>wrong</result>
-</mention>
 <mention id="XIN_CMN_20060805.0016_644_646">
 	<docid>XIN_CMN_20060805.0016</docid>
 	<name>唐三藏</name>
@@ -75,12 +25,6 @@
 	<candidate_name>[唐三藏]</candidate_name>
 	<candidate>m.01hsnl</candidate>
 	<candidate_name>[唐三藏]</candidate_name>
-	<candidate>m.07hb0</candidate>
-	<candidate_name>[三藏]</candidate_name>
-	<candidate>m.02z4gdv</candidate>
-	<candidate_name>[唐三彩]</candidate_name>
-	<candidate>m.0xnmkd0</candidate>
-	<candidate_name>[唐三要]</candidate_name>
 	<entity_id>m.01c_t4</entity_id>
 <result>wrong</result>
 </mention>
@@ -99,8 +43,7 @@
 	<name>少帅</name>
 	<begin>221</begin>
 	<end>222</end>
-	<candidate>m.0y_nd7r</candidate>
-	<candidate_name>[邱少帅]</candidate_name>
+	<candidate>nil</candidate>
 	<entity_id>m.089hk</entity_id>
 <result>wrong</result>
 </mention>
@@ -109,6 +52,8 @@
 	<name>南洋公学</name>
 	<begin>591</begin>
 	<end>594</end>
+	<candidate>m.03_cs9</candidate>
+	<candidate_name>[南洋大学]</candidate_name>
 	<candidate>m.08tmyw</candidate>
 	<candidate_name>[南洋小学]</candidate_name>
 	<entity_id>m.01j8l9</entity_id>
@@ -119,42 +64,34 @@
 	<name>马景涛</name>
 	<begin>3496</begin>
 	<end>3498</end>
-	<candidate>m.0wznb80</candidate>
-	<candidate_name>[马景贤]</candidate_name>
+	<candidate>nil</candidate>
 	<entity_id>m.010fdtms</entity_id>
 <result>wrong</result>
 </mention>
-<mention id="bolt-cmn-DF-182-192231-4921119_527_528">
-	<docid>bolt-cmn-DF-182-192231-4921119</docid>
-	<name>范爷</name>
-	<begin>527</begin>
-	<end>528</end>
-	<candidate>nil</candidate>
-	<entity_id>m.09wn3y</entity_id>
+<mention id="CNS_CMN_20101017.0128_174_175">
+	<docid>CNS_CMN_20101017.0128</docid>
+	<name>白云</name>
+	<begin>174</begin>
+	<end>175</end>
+	<candidate>m.0y5fcp3</candidate>
+	<candidate_name>[白云]</candidate_name>
+	<candidate>m.02q_1p5</candidate>
+	<candidate_name>[白云]</candidate_name>
+	<entity_id>m.063mcv</entity_id>
 <result>wrong</result>
 </mention>
-<mention id="bolt-cmn-DF-182-192255-6448638_676_678">
-	<docid>bolt-cmn-DF-182-192255-6448638</docid>
-	<name>杨太真</name>
-	<begin>676</begin>
-	<end>678</end>
-	<candidate>m.0ykjh5s</candidate>
-	<candidate_name>[杨贵妃]</candidate_name>
-	<candidate>m.0vwxgnc</candidate>
-	<candidate_name>[杨贵妃]</candidate_name>
-	<candidate>m.05mt618</candidate>
-	<candidate_name>[杨贵妃]</candidate_name>
-	<candidate>m.0j42ndm</candidate>
-	<candidate_name>[杨贵妃]</candidate_name>
-	<candidate>m.0w2xch8</candidate>
-	<candidate_name>[杨贵妃]</candidate_name>
-	<candidate>m.0nftfx5</candidate>
-	<candidate_name>[杨贵妃]</candidate_name>
-	<candidate>m.01rjg7</candidate>
-	<candidate_name>[杨贵妃]</candidate_name>
-	<candidate>m.0yyhnb_</candidate>
-	<candidate_name>[杨美真]</candidate_name>
-	<entity_id>/m.01rjg7</entity_id>
+<mention id="XIN_CMN_19980412.0018_244_247">
+	<docid>XIN_CMN_19980412.0018</docid>
+	<name>交通大学</name>
+	<begin>244</begin>
+	<end>247</end>
+	<candidate>m.030tmb</candidate>
+	<candidate_name>[西安交通大学]</candidate_name>
+	<candidate>m.04175pm</candidate>
+	<candidate_name>[交通大学站]</candidate_name>
+	<candidate>m.0bqhj5</candidate>
+	<candidate_name>[南通大学]</candidate_name>
+	<entity_id>m.0dk5qq</entity_id>
 <result>wrong</result>
 </mention>
 <mention id="bolt-cmn-DF-205-185863-592495_657_658">
@@ -182,15 +119,6 @@
 	<candidate>m.03688fm</candidate>
 	<candidate_name>[唐朝]</candidate_name>
 	<entity_id>m.01q9zs</entity_id>
-<result>wrong</result>
-</mention>
-<mention id="bolt-cmn-DF-20-191614-19987777_2406_2410">
-	<docid>bolt-cmn-DF-20-191614-19987777</docid>
-	<name>不抵抗将军</name>
-	<begin>2406</begin>
-	<end>2410</end>
-	<candidate>nil</candidate>
-	<entity_id>m.089hk</entity_id>
 <result>wrong</result>
 </mention>
 <mention id="CNA_CMN_20100316.0367_190_191">
@@ -273,41 +201,16 @@
 	<candidate_name>[多利亚尼]</candidate_name>
 	<candidate>m.0r80l</candidate>
 	<candidate_name>[维塞利亚]</candidate_name>
-	<candidate>m.036t2w</candidate>
-	<candidate_name>[维多利亚广场]</candidate_name>
-	<candidate>m.0b775c6</candidate>
-	<candidate_name>[维多利亚主教]</candidate_name>
-	<candidate>m.024hvp</candidate>
-	<candidate_name>[维多利亚公主]</candidate_name>
-	<candidate>m.01ww1f</candidate>
-	<candidate_name>[维多利亚公主]</candidate_name>
-	<candidate>m.01xrzb</candidate>
-	<candidate_name>[维多利亚车站]</candidate_name>
-	<candidate>m.04d5z2</candidate>
-	<candidate_name>[维多利亚市场]</candidate_name>
-	<candidate>m.014r_r</candidate>
-	<candidate_name>[维多利亚战役]</candidate_name>
-	<candidate>m.0637h</candidate>
-	<candidate_name>[维多利亚公主]</candidate_name>
-	<candidate>m.0czll1</candidate>
-	<candidate_name>[维多利亚协会]</candidate_name>
-	<candidate>m.0czxld</candidate>
-	<candidate_name>[维多利亚冠鸠]</candidate_name>
-	<candidate>m.03cd3</candidate>
-	<candidate_name>[维多利亚总督]</candidate_name>
-	<candidate>m.080yx</candidate>
-	<candidate_name>[维多利亚大学]</candidate_name>
-	<candidate>m.0814f</candidate>
-	<candidate_name>[维多利亚时代]</candidate_name>
-	<candidate>m.07wlt</candidate>
-	<candidate_name>[维多利亚大学]</candidate_name>
-	<candidate>m.0ch30sk</candidate>
-	<candidate_name>[维多利亚壹号]</candidate_name>
-	<candidate>m.080byzc</candidate>
-	<candidate_name>[维多利亚II]</candidate_name>
-	<candidate>m.01bbgy</candidate>
-	<candidate_name>[莫西奥图尼亚瀑布]</candidate_name>
 	<entity_id>m.0cgfb</entity_id>
+<result>wrong</result>
+</mention>
+<mention id="XIN_CMN_20020814.0173_111_119">
+	<docid>XIN_CMN_20020814.0173</docid>
+	<name>埃尔维斯?普雷斯利</name>
+	<begin>111</begin>
+	<end>119</end>
+	<candidate>nil</candidate>
+	<entity_id>m.02jq1</entity_id>
 <result>wrong</result>
 </mention>
 <mention id="XIN_CMN_20060318.0002_253_254">
@@ -339,30 +242,6 @@
 	<candidate_name>[外交部]</candidate_name>
 	<candidate>m.03k0qv</candidate>
 	<candidate_name>[外务省]</candidate_name>
-	<candidate>m.0191_p</candidate>
-	<candidate_name>[外交]</candidate_name>
-	<candidate>m.0bvtd</candidate>
-	<candidate_name>[外交]</candidate_name>
-	<candidate>m.0bvsx</candidate>
-	<candidate_name>[外交]</candidate_name>
-	<candidate>m.080ntlp</candidate>
-	<candidate_name>[外交家, 外交官]</candidate_name>
-	<candidate>m.04cxmg</candidate>
-	<candidate_name>[伊朗外交部]</candidate_name>
-	<candidate>m.04f0x12</candidate>
-	<candidate_name>[缅甸外交部]</candidate_name>
-	<candidate>m.03c2syq</candidate>
-	<candidate_name>[苏联外交部]</candidate_name>
-	<candidate>m.0czb3d4</candidate>
-	<candidate_name>[希腊外交部]</candidate_name>
-	<candidate>m.028b8j9</candidate>
-	<candidate_name>[荷兰外交部]</candidate_name>
-	<candidate>m.06zgmb</candidate>
-	<candidate_name>[德国外交部]</candidate_name>
-	<candidate>m.01l2_d</candidate>
-	<candidate_name>[法国外交部]</candidate_name>
-	<candidate>m.025_nxz</candidate>
-	<candidate_name>[芬兰外交部]</candidate_name>
 	<entity_id>m.02gyq</entity_id>
 <result>wrong</result>
 </mention>
@@ -384,15 +263,6 @@
 	<entity_id>m.0f4vbz</entity_id>
 <result>wrong</result>
 </mention>
-<mention id="bolt-cmn-DF-196-185667-2998877_2050_2051">
-	<docid>bolt-cmn-DF-196-185667-2998877</docid>
-	<name>张局</name>
-	<begin>2050</begin>
-	<end>2051</end>
-	<candidate>nil</candidate>
-	<entity_id>m.0j63pk7</entity_id>
-<result>wrong</result>
-</mention>
 <mention id="bolt-cmn-DF-20-191613-3834663_584_585">
 	<docid>bolt-cmn-DF-20-191613-3834663</docid>
 	<name>胡帅</name>
@@ -409,23 +279,7 @@
 	<end>15910</end>
 	<candidate>m.04mnl6</candidate>
 	<candidate_name>[批林批孔运动]</candidate_name>
-	<candidate>m.0v3ybrm</candidate>
-	<candidate_name>[老二]</candidate_name>
-	<candidate>m.0x2nswq</candidate>
-	<candidate_name>[巫老二]</candidate_name>
-	<candidate>m.0j103zn</candidate>
-	<candidate_name>[老二]</candidate_name>
 	<entity_id>m.01rll</entity_id>
-<result>wrong</result>
-</mention>
-<mention id="PLA_CMN_20100108.0060_140_141">
-	<docid>PLA_CMN_20100108.0060</docid>
-	<name>石佛</name>
-	<begin>140</begin>
-	<end>141</end>
-	<candidate>m.0_853j9</candidate>
-	<candidate_name>[石佛镇]</candidate_name>
-	<entity_id>m.01gct2</entity_id>
 <result>wrong</result>
 </mention>
 <mention id="bolt-cmn-DF-182-192251-6392070_8837_8839">
@@ -433,14 +287,7 @@
 	<name>习老大</name>
 	<begin>8837</begin>
 	<end>8839</end>
-	<candidate>m.01cm3</candidate>
-	<candidate_name>[老大哥]</candidate_name>
-	<candidate>m.03j6q8</candidate>
-	<candidate_name>[老大哥]</candidate_name>
-	<candidate>m.0g4pp8c</candidate>
-	<candidate_name>[老大娘]</candidate_name>
-	<candidate>m.0y6myqy</candidate>
-	<candidate_name>[老大]</candidate_name>
+	<candidate>nil</candidate>
 	<entity_id>m.06ff60</entity_id>
 <result>wrong</result>
 </mention>
@@ -495,32 +342,6 @@
 	<candidate_name>[奥克斯塔]</candidate_name>
 	<candidate>m.0qh31</candidate>
 	<candidate_name>[古斯塔夫]</candidate_name>
-	<candidate>m.03qjj4v</candidate>
-	<candidate_name>[奥古斯塔广场]</candidate_name>
-	<candidate>m.04jl_ct</candidate>
-	<candidate_name>[奥古斯塔龙属]</candidate_name>
-	<candidate>m.022bct</candidate>
-	<candidate_name>[奥古斯图夫]</candidate_name>
-	<candidate>m.012g2q</candidate>
-	<candidate_name>[法马古斯塔]</candidate_name>
-	<candidate>m.0160br</candidate>
-	<candidate_name>[奥里斯塔诺]</candidate_name>
-	<candidate>m.0byskk</candidate>
-	<candidate_name>[奥戈斯塔河]</candidate_name>
-	<candidate>m.0gmhtr</candidate>
-	<candidate_name>[奥古斯丁草]</candidate_name>
-	<candidate>m.03fgfl</candidate>
-	<candidate_name>[奥古斯多夫]</candidate_name>
-	<candidate>m.0b5jzx</candidate>
-	<candidate_name>[奥戈斯塔角]</candidate_name>
-	<candidate>m.03qmcmq</candidate>
-	<candidate_name>[圣奥古斯图]</candidate_name>
-	<candidate>m.02q39g1</candidate>
-	<candidate_name>[奥尔斯塔特]</candidate_name>
-	<candidate>m.02q79sx</candidate>
-	<candidate_name>[奥布斯塔特]</candidate_name>
-	<candidate>m.0g0zcp</candidate>
-	<candidate_name>[奥姆斯塔尔]</candidate_name>
 	<entity_id>m.0d0x8</entity_id>
 <result>wrong</result>
 </mention>
@@ -542,32 +363,13 @@
 	<entity_id>m.0d060g</entity_id>
 <result>wrong</result>
 </mention>
-<mention id="AFP_CMN_20101231.0045_259_282">
-	<docid>AFP_CMN_20101231.0045</docid>
-	<name>Florida State University</name>
-	<begin>259</begin>
-	<end>282</end>
-	<candidate>nil</candidate>
-	<entity_id>m.01jq0j</entity_id>
-<result>wrong</result>
-</mention>
 <mention id="CNA_CMN_20100121.0311_356_357">
 	<docid>CNA_CMN_20100121.0311</docid>
 	<name>大威</name>
 	<begin>356</begin>
 	<end>357</end>
-	<candidate>m.01whrht</candidate>
-	<candidate_name>[孙大威]</candidate_name>
-	<entity_id>m.016cff</entity_id>
-<result>wrong</result>
-</mention>
-<mention id="CNS_CMN_20090822.0066_254_268">
-	<docid>CNS_CMN_20090822.0066</docid>
-	<name>Michael Jackson</name>
-	<begin>254</begin>
-	<end>268</end>
 	<candidate>nil</candidate>
-	<entity_id>m.09889g</entity_id>
+	<entity_id>m.016cff</entity_id>
 <result>wrong</result>
 </mention>
 <mention id="XIN_CMN_20050317.0060_171_173">
@@ -581,43 +383,7 @@
 	<candidate_name>[外交部]</candidate_name>
 	<candidate>m.03k0qv</candidate>
 	<candidate_name>[外务省]</candidate_name>
-	<candidate>m.0191_p</candidate>
-	<candidate_name>[外交]</candidate_name>
-	<candidate>m.0bvtd</candidate>
-	<candidate_name>[外交]</candidate_name>
-	<candidate>m.0bvsx</candidate>
-	<candidate_name>[外交]</candidate_name>
-	<candidate>m.080ntlp</candidate>
-	<candidate_name>[外交家, 外交官]</candidate_name>
-	<candidate>m.04cxmg</candidate>
-	<candidate_name>[伊朗外交部]</candidate_name>
-	<candidate>m.04f0x12</candidate>
-	<candidate_name>[缅甸外交部]</candidate_name>
-	<candidate>m.03c2syq</candidate>
-	<candidate_name>[苏联外交部]</candidate_name>
-	<candidate>m.0czb3d4</candidate>
-	<candidate_name>[希腊外交部]</candidate_name>
-	<candidate>m.028b8j9</candidate>
-	<candidate_name>[荷兰外交部]</candidate_name>
-	<candidate>m.06zgmb</candidate>
-	<candidate_name>[德国外交部]</candidate_name>
-	<candidate>m.01l2_d</candidate>
-	<candidate_name>[法国外交部]</candidate_name>
-	<candidate>m.025_nxz</candidate>
-	<candidate_name>[芬兰外交部]</candidate_name>
 	<entity_id>m.02626pc</entity_id>
-<result>wrong</result>
-</mention>
-<mention id="AFP_CMN_20100111.0011_319_332">
-	<docid>AFP_CMN_20100111.0011</docid>
-	<name>Sunshine State</name>
-	<begin>319</begin>
-	<end>332</end>
-	<candidate>m.0dzz3dv</candidate>
-	<candidate_name>[Sunshine Alike]</candidate_name>
-	<candidate>m.0md18dr</candidate>
-	<candidate_name>[Sunshine Alike]</candidate_name>
-	<entity_id>m.02xry</entity_id>
 <result>wrong</result>
 </mention>
 <mention id="XIN_CMN_19930311.0225_57_58">
@@ -638,129 +404,12 @@
 	<entity_id>m.04r8g7</entity_id>
 <result>wrong</result>
 </mention>
-<mention id="PDA_CMN_20100309.0325_329_333">
-	<docid>PDA_CMN_20100309.0325</docid>
-	<name>阿比西尼亚</name>
-	<begin>329</begin>
-	<end>333</end>
-	<candidate>m.09747c</candidate>
-	<candidate_name>[阿比西尼亚猫]</candidate_name>
-	<candidate>m.019pcs</candidate>
-	<candidate_name>[埃塞俄比亚, 衣索比亚]</candidate_name>
-	<candidate>m.0f_mwl</candidate>
-	<candidate_name>[比西尼亚诺]</candidate_name>
-	<candidate>m.03nv062</candidate>
-	<candidate_name>[比尔尼亚克]</candidate_name>
-	<candidate>m.076z4kt</candidate>
-	<candidate_name>[卡西尼亚斯]</candidate_name>
-	<candidate>m.022mp5</candidate>
-	<candidate_name>[阿尔韦尼亚]</candidate_name>
-	<candidate>m.02phjds</candidate>
-	<candidate_name>[阿尔巴尼亚]</candidate_name>
-	<candidate>m.02qmpzm</candidate>
-	<candidate_name>[拉比希尼亚]</candidate_name>
-	<candidate>m.0466qfx</candidate>
-	<candidate_name>[阿劳卡尼亚]</candidate_name>
-	<candidate>m.02qr82p</candidate>
-	<candidate_name>[阿尔巴尼亚共和国]</candidate_name>
-	<candidate>m.0gk86j</candidate>
-	<candidate_name>[阿尔泰尼亚]</candidate_name>
-	<candidate>m.0fg47z</candidate>
-	<candidate_name>[比塞尼亚]</candidate_name>
-	<candidate>m.0c6qg6</candidate>
-	<candidate_name>[巴西尼亚纳]</candidate_name>
-	<candidate>m.02qrvbm</candidate>
-	<candidate_name>[阿尔巴尼亚]</candidate_name>
-	<candidate>m.0gl3w8</candidate>
-	<candidate_name>[阿夸拉尼亚]</candidate_name>
-	<candidate>m.0gl82j</candidate>
-	<candidate_name>[马西尼亚诺]</candidate_name>
-	<candidate>m.0gl7tz</candidate>
-	<candidate_name>[科西尼亚诺]</candidate_name>
-	<candidate>m.0gld2w</candidate>
-	<candidate_name>[西尼亚]</candidate_name>
-	<candidate>m.03m7lw5</candidate>
-	<candidate_name>[阿尔西尼]</candidate_name>
-	<candidate>m.03m7rxg</candidate>
-	<candidate_name>[阿尔希尼亚]</candidate_name>
-	<candidate>m.03qm0sd</candidate>
-	<candidate_name>[卡西尼亚]</candidate_name>
-	<candidate>m.03qm2g0</candidate>
-	<candidate_name>[普西尼亚克]</candidate_name>
-	<candidate>m.0gny4m</candidate>
-	<candidate_name>[卡西尼亚纳]</candidate_name>
-	<candidate>m.03m8l77</candidate>
-	<candidate_name>[阿尔维尼亚]</candidate_name>
-	<candidate>m.09rwnm8</candidate>
-	<candidate_name>[阿尔托尼亚]</candidate_name>
-	<candidate>m.0h08rx</candidate>
-	<candidate_name>[阿古迪尼亚]</candidate_name>
-	<candidate>m.02z99ft</candidate>
-	<candidate_name>[比莱尼亚]</candidate_name>
-	<candidate>m.01db23</candidate>
-	<candidate_name>[麦西尼亚州]</candidate_name>
-	<candidate>m.03mb6qn</candidate>
-	<candidate_name>[巴西尼亚克]</candidate_name>
-	<candidate>m.09dn2l</candidate>
-	<candidate_name>[阿基塔尼亚]</candidate_name>
-	<candidate>m.0cn3b</candidate>
-	<candidate_name>[巴比伦尼亚]</candidate_name>
-	<candidate>m.03mcb87</candidate>
-	<candidate_name>[富西尼亚克]</candidate_name>
-	<candidate>m.03mcc2c</candidate>
-	<candidate_name>[马西尼亚克]</candidate_name>
-	<candidate>m.04v4sc</candidate>
-	<candidate_name>[富西尼亚诺]</candidate_name>
-	<candidate>m.03mg702</candidate>
-	<candidate_name>[芒西尼亚克]</candidate_name>
-	<candidate>m.02w20q8</candidate>
-	<candidate_name>[索西尼亚克]</candidate_name>
-	<candidate>m.02zb2ld</candidate>
-	<candidate_name>[阿尔穆尼亚]</candidate_name>
-	<candidate>m.03mg6vl</candidate>
-	<candidate_name>[吕西尼亚克]</candidate_name>
-	<candidate>m.0k946</candidate>
-	<candidate_name>[比提尼亚]</candidate_name>
-	<candidate>m.03h1gnk</candidate>
-	<candidate_name>[阿尔瓦尼亚]</candidate_name>
-	<candidate>m.04yrz4</candidate>
-	<candidate_name>[比基尼亚斯]</candidate_name>
-	<candidate>m.03nmw_m</candidate>
-	<candidate_name>[西尼亚克]</candidate_name>
-	<candidate>m.0ds7kk</candidate>
-	<candidate_name>[阿尔格尼亚]</candidate_name>
-	<candidate>m.02qcv8t</candidate>
-	<candidate_name>[阿尔巴尼亚]</candidate_name>
-	<candidate>m.0g9_5p</candidate>
-	<candidate_name>[利西尼亚戈]</candidate_name>
-	<candidate>m.02w961_</candidate>
-	<candidate_name>[比西尼]</candidate_name>
-	<candidate>m.03yk9c</candidate>
-	<candidate_name>[阿里拉尼亚]</candidate_name>
-	<candidate>m.0493ph</candidate>
-	<candidate_name>[普拉西尼亚]</candidate_name>
-	<candidate>m.0jdx</candidate>
-	<candidate_name>[阿尔巴尼亚]</candidate_name>
-	<candidate>m.0223kr</candidate>
-	<candidate_name>[阿奎洛尼亚]</candidate_name>
-	<entity_id>m.02y_9cf</entity_id>
-<result>wrong</result>
-</mention>
 <mention id="XIN_CMN_20020208.0110_189_194">
 	<docid>XIN_CMN_20020208.0110</docid>
 	<name>沙奎?奥尼尔</name>
 	<begin>189</begin>
 	<end>194</end>
-	<candidate>m.015g_7</candidate>
-	<candidate_name>[瑞恩·奥尼尔]</candidate_name>
-	<candidate>m.0hnjt</candidate>
-	<candidate_name>[尤金·奥尼尔]</candidate_name>
-	<candidate>m.01jbh5</candidate>
-	<candidate_name>[保罗·奥尼尔]</candidate_name>
-	<candidate>m.0cqypv</candidate>
-	<candidate_name>[马丁·奥尼尔]</candidate_name>
-	<candidate>m.08mrgq</candidate>
-	<candidate_name>[乌娜·奥尼尔]</candidate_name>
+	<candidate>nil</candidate>
 	<entity_id>m.012xdf</entity_id>
 <result>wrong</result>
 </mention>
@@ -771,73 +420,51 @@
 	<end>177</end>
 	<candidate>m.013d1x</candidate>
 	<candidate_name>[威廉斯]</candidate_name>
+	<candidate>m.015z4j</candidate>
+	<candidate_name>[小威廉丝, 塞雷娜·威廉姆斯]</candidate_name>
+	<candidate>m.06p0q8</candidate>
+	<candidate_name>[德隆·威廉斯, 德隆·威廉姆斯]</candidate_name>
+	<candidate>m.016cff</candidate>
+	<candidate_name>[大威廉丝, 维纳斯·威廉姆斯]</candidate_name>
+	<candidate>m.086x3</candidate>
+	<candidate_name>[威廉斯车队, 威廉姆斯车队]</candidate_name>
+	<candidate>m.07rbm</candidate>
+	<candidate_name>[泰德·威廉斯]</candidate_name>
+	<candidate>m.09qr6</candidate>
+	<candidate_name>[罗比·威廉斯]</candidate_name>
 	<candidate>m.0_l9z</candidate>
 	<candidate_name>[威廉姆斯]</candidate_name>
+	<candidate>m.0dzf_</candidate>
+	<candidate_name>[罗宾·威廉斯]</candidate_name>
+	<candidate>m.078w9j</candidate>
+	<candidate_name>[贾森·威廉姆斯]</candidate_name>
+	<candidate>m.0ncc20m</candidate>
+	<candidate_name>[罗宾·威廉姆斯]</candidate_name>
+	<candidate>m.02lvtb</candidate>
+	<candidate_name>[安迪·威廉斯]</candidate_name>
+	<candidate>m.0myg9</candidate>
+	<candidate_name>[威廉斯县, 威廉斯郡 (俄亥俄州)]</candidate_name>
+	<candidate>m.044fz0</candidate>
+	<candidate_name>[安迪·威廉斯]</candidate_name>
+	<candidate>m.0n2wn</candidate>
+	<candidate_name>[威廉斯县, 威廉斯郡 (北达科他州)]</candidate_name>
+	<candidate>m.08k00r</candidate>
+	<candidate_name>[莫里斯·威廉姆斯]</candidate_name>
+	<candidate>m.0dt5t3</candidate>
+	<candidate_name>[马克·威廉姆斯]</candidate_name>
+	<candidate>m.05zm7n9</candidate>
+	<candidate_name>[阿尔伯托·威廉斯]</candidate_name>
 	<candidate>m.0qyhv</candidate>
 	<candidate_name>[威廉姆斯]</candidate_name>
 	<candidate>m.0qp23</candidate>
 	<candidate_name>[威廉姆斯]</candidate_name>
+	<candidate>m.02wnkp</candidate>
+	<candidate_name>[马克·威廉姆斯]</candidate_name>
 	<candidate>m.083z4</candidate>
 	<candidate_name>[威廉姆斯管]</candidate_name>
 	<candidate>m.051m3f</candidate>
 	<candidate_name>[威廉姆斯湖]</candidate_name>
-	<candidate>m.086xm</candidate>
-	<candidate_name>[威廉姆斯学院]</candidate_name>
-	<candidate>m.086x3</candidate>
-	<candidate_name>[威廉斯车队, 威廉姆斯车队]</candidate_name>
-	<candidate>m.02q4qx0</candidate>
-	<candidate_name>[本·威廉姆斯]</candidate_name>
 	<entity_id>m.08l9xw</entity_id>
-<result>wrong</result>
-</mention>
-<mention id="bolt-cmn-DF-182-192251-6384507_3527_3529">
-	<docid>bolt-cmn-DF-182-192251-6384507</docid>
-	<name>李大眼</name>
-	<begin>3527</begin>
-	<end>3529</end>
-	<candidate>m.0hnttxw</candidate>
-	<candidate_name>[李大卫]</candidate_name>
-	<candidate>m.0nm4n5l</candidate>
-	<candidate_name>[大眼睛]</candidate_name>
-	<candidate>m.0f5s6ln</candidate>
-	<candidate_name>[大眼睛]</candidate_name>
-	<candidate>m.0q296bt</candidate>
-	<candidate_name>[大眼]</candidate_name>
-	<candidate>m.03cjy5</candidate>
-	<candidate_name>[李大维]</candidate_name>
-	<candidate>m.04jg9_n</candidate>
-	<candidate_name>[李大双]</candidate_name>
-	<candidate>m.0f51r1h</candidate>
-	<candidate_name>[大眼睛]</candidate_name>
-	<candidate>m.02d42c</candidate>
-	<candidate_name>[李大钊]</candidate_name>
-	<candidate>m.0nsyqw6</candidate>
-	<candidate_name>[大眼睛]</candidate_name>
-	<candidate>m.0xnby_s</candidate>
-	<candidate_name>[李大海]</candidate_name>
-	<candidate>m.0vv5gt6</candidate>
-	<candidate_name>[李大仁]</candidate_name>
-	<candidate>m.0b6hs07</candidate>
-	<candidate_name>[大眼鲤]</candidate_name>
-	<candidate>m.027_j7h</candidate>
-	<candidate_name>[李大卫]</candidate_name>
-	<candidate>m.0b6mj39</candidate>
-	<candidate_name>[大眼鲮]</candidate_name>
-	<candidate>m.047nftk</candidate>
-	<candidate_name>[李大浩]</candidate_name>
-	<candidate>m.0m2v2c9</candidate>
-	<candidate_name>[大眼睛]</candidate_name>
-	<candidate>m.0dmml8k</candidate>
-	<candidate_name>[大眼睛]</candidate_name>
-	<candidate>m.0bkl_0</candidate>
-	<candidate_name>[李大同]</candidate_name>
-	<candidate>m.0h4sj8s</candidate>
-	<candidate_name>[李大齐]</candidate_name>
-	<candidate>m.0l_s4f9</candidate>
-	<candidate_name>[大眼睛]</candidate_name>
-	<candidate>m.0l_s4rh</candidate>
-	<candidate_name>[大眼睛]</candidate_name>
-	<entity_id>m.0gx1g3s</entity_id>
 <result>wrong</result>
 </mention>
 <mention id="bolt-cmn-DF-213-191701-5160986_1708_1710">
@@ -849,102 +476,6 @@
 	<candidate_name>[西佩雷斯]</candidate_name>
 	<candidate>m.0dsff4t</candidate>
 	<candidate_name>[佩雷斯角]</candidate_name>
-	<candidate>m.0gb162</candidate>
-	<candidate_name>[特雷斯]</candidate_name>
-	<candidate>m.03nv8ff</candidate>
-	<candidate_name>[佩雷]</candidate_name>
-	<candidate>m.0gb0z4</candidate>
-	<candidate_name>[泰雷斯]</candidate_name>
-	<candidate>m.03nv6qf</candidate>
-	<candidate_name>[佩鲁斯]</candidate_name>
-	<candidate>m.076ykg6</candidate>
-	<candidate_name>[凯雷斯]</candidate_name>
-	<candidate>m.0h56dnp</candidate>
-	<candidate_name>[塔雷斯]</candidate_name>
-	<candidate>m.0gdxl2</candidate>
-	<candidate_name>[费雷斯]</candidate_name>
-	<candidate>m.087wc7n</candidate>
-	<candidate_name>[老雷斯的故事, 罗雷司]</candidate_name>
-	<candidate>m.092llh</candidate>
-	<candidate_name>[塞雷斯]</candidate_name>
-	<candidate>m.028m6n</candidate>
-	<candidate_name>[格雷斯]</candidate_name>
-	<candidate>m.0fq1w3z</candidate>
-	<candidate_name>[雷斯山]</candidate_name>
-	<candidate>m.05j_kd</candidate>
-	<candidate_name>[佩雷拉]</candidate_name>
-	<candidate>m.03w9mgv</candidate>
-	<candidate_name>[佩雷]</candidate_name>
-	<candidate>m.03qfvr9</candidate>
-	<candidate_name>[博雷斯]</candidate_name>
-	<candidate>m.0fg4z8</candidate>
-	<candidate_name>[佩雷托]</candidate_name>
-	<candidate>m.03qhj1s</candidate>
-	<candidate_name>[布雷斯]</candidate_name>
-	<candidate>m.02rx_nl</candidate>
-	<candidate_name>[弗雷斯]</candidate_name>
-	<candidate>m.02z0w9p</candidate>
-	<candidate_name>[佩卢斯]</candidate_name>
-	<candidate>m.0968q</candidate>
-	<candidate_name>[色雷斯]</candidate_name>
-	<candidate>m.03m6qg4</candidate>
-	<candidate_name>[包雷斯]</candidate_name>
-	<candidate>m.03qm56n</candidate>
-	<candidate_name>[佩雷古]</candidate_name>
-	<candidate>m.03m94xg</candidate>
-	<candidate_name>[佩雷洛]</candidate_name>
-	<candidate>m.03m8nlj</candidate>
-	<candidate_name>[佩雷尔]</candidate_name>
-	<candidate>m.03m8jpd</candidate>
-	<candidate_name>[佩雷雷]</candidate_name>
-	<candidate>m.09kvb</candidate>
-	<candidate_name>[佩琉斯]</candidate_name>
-	<candidate>m.09ry506</candidate>
-	<candidate_name>[佩雷鲁]</candidate_name>
-	<candidate>m.0dcvrg</candidate>
-	<candidate_name>[塞雷斯]</candidate_name>
-	<candidate>m.0gr4cm</candidate>
-	<candidate_name>[佩雷戈]</candidate_name>
-	<candidate>m.04jk1qp</candidate>
-	<candidate_name>[佩恩斯]</candidate_name>
-	<candidate>m.0gqtcj</candidate>
-	<candidate_name>[莫雷斯]</candidate_name>
-	<candidate>m.0fnh1w</candidate>
-	<candidate_name>[贝雷斯]</candidate_name>
-	<candidate>m.01cvwc</candidate>
-	<candidate_name>[拉雷斯]</candidate_name>
-	<candidate>m.03mb9g_</candidate>
-	<candidate_name>[佩吕斯]</candidate_name>
-	<candidate>m.02z9ty9</candidate>
-	<candidate_name>[莫雷斯]</candidate_name>
-	<candidate>m.027_9d2</candidate>
-	<candidate_name>[雷斯科]</candidate_name>
-	<candidate>m.03mcjbg</candidate>
-	<candidate_name>[佩雷]</candidate_name>
-	<candidate>m.05ytgq</candidate>
-	<candidate_name>[克雷斯]</candidate_name>
-	<candidate>m.03mg5ty</candidate>
-	<candidate_name>[克雷斯]</candidate_name>
-	<candidate>m.02rbd_g</candidate>
-	<candidate_name>[茨雷斯]</candidate_name>
-	<candidate>m.02y_6kw</candidate>
-	<candidate_name>[德雷斯]</candidate_name>
-	<candidate>m.03mgmpx</candidate>
-	<candidate_name>[克雷斯]</candidate_name>
-	<candidate>m.03mghtd</candidate>
-	<candidate_name>[克雷斯]</candidate_name>
-	<candidate>m.0bfk65</candidate>
-	<candidate_name>[雷斯]</candidate_name>
-	<candidate>m.03mhfsl</candidate>
-	<candidate_name>[佩鲁斯]</candidate_name>
-	<candidate>m.0fwzfx</candidate>
-	<candidate_name>[韦雷斯]</candidate_name>
-	<candidate>m.0dr1bp</candidate>
-	<candidate_name>[佩索斯]</candidate_name>
-	<candidate>m.0g6v8x</candidate>
-	<candidate_name>[塞雷斯]</candidate_name>
-	<candidate>m.0g6z0x</candidate>
-	<candidate_name>[佩雷罗]</candidate_name>
 	<entity_id>m.0c_8s</entity_id>
 <result>wrong</result>
 </mention>
@@ -953,32 +484,8 @@
 	<name>戴老板</name>
 	<begin>296</begin>
 	<end>298</end>
-	<candidate>m.0w1758t</candidate>
-	<candidate_name>[老板娘]</candidate_name>
-	<candidate>m.0y54hcp</candidate>
-	<candidate_name>[老板]</candidate_name>
-	<candidate>m.0x1rx_6</candidate>
-	<candidate_name>[老板]</candidate_name>
-	<candidate>m.0y44y3r</candidate>
-	<candidate_name>[黄老板]</candidate_name>
-	<candidate>m.04jtp2</candidate>
-	<candidate_name>[老板键]</candidate_name>
-	<candidate>m.0_lt4_d</candidate>
-	<candidate_name>[贾老板]</candidate_name>
-	<candidate>m.0h2kkr8</candidate>
-	<candidate_name>[王老板]</candidate_name>
-	<candidate>m.0j10f07</candidate>
-	<candidate_name>[徐老板]</candidate_name>
-	<entity_id>m.085m5b</entity_id>
-<result>wrong</result>
-</mention>
-<mention id="CNS_CMN_20100514.0859_537_556">
-	<docid>CNS_CMN_20100514.0859</docid>
-	<name>University of Ottawa</name>
-	<begin>537</begin>
-	<end>556</end>
 	<candidate>nil</candidate>
-	<entity_id>m.011kn2</entity_id>
+	<entity_id>m.085m5b</entity_id>
 <result>wrong</result>
 </mention>
 <mention id="bolt-cmn-DF-20-191613-3836435_5170_5171">
@@ -991,38 +498,6 @@
 	<candidate>m.04n7hd6</candidate>
 	<candidate_name>[国父]</candidate_name>
 	<entity_id>m.04xzm</entity_id>
-<result>wrong</result>
-</mention>
-<mention id="XIN_CMN_20091023.0173_184_187">
-	<docid>XIN_CMN_20091023.0173</docid>
-	<name>范大将军</name>
-	<begin>184</begin>
-	<end>187</end>
-	<candidate>m.0fq35pb</candidate>
-	<candidate_name>[天大将军]</candidate_name>
-	<candidate>m.01n1rw</candidate>
-	<candidate_name>[大将军]</candidate_name>
-	<candidate>m.081v1j</candidate>
-	<candidate_name>[天大将军三]</candidate_name>
-	<candidate>m.082b8j</candidate>
-	<candidate_name>[天大将军七]</candidate_name>
-	<candidate>m.082bc8</candidate>
-	<candidate_name>[天大将军五]</candidate_name>
-	<candidate>m.075ct</candidate>
-	<candidate_name>[征夷大将军]</candidate_name>
-	<candidate>m.07yj38</candidate>
-	<candidate_name>[天大将军十]</candidate_name>
-	<candidate>m.07yj26</candidate>
-	<candidate_name>[天大将军九]</candidate_name>
-	<candidate>m.0504cz</candidate>
-	<candidate_name>[天大将军一]</candidate_name>
-	<candidate>m.08bcd1</candidate>
-	<candidate_name>[天大将军八]</candidate_name>
-	<candidate>m.01kq2k</candidate>
-	<candidate_name>[天大将军六]</candidate_name>
-	<candidate>m.02qc7sq</candidate>
-	<candidate_name>[天大将军二]</candidate_name>
-	<entity_id>m.09gsm9</entity_id>
 <result>wrong</result>
 </mention>
 <mention id="bolt-cmn-DF-196-185692-2807653_5012_5014">
@@ -1041,26 +516,6 @@
 	<end>297</end>
 	<candidate>m.064lzsm</candidate>
 	<candidate_name>[东乡县]</candidate_name>
-	<candidate>m.0r4vc56</candidate>
-	<candidate_name>[河东乡]</candidate_name>
-	<candidate>m.0r3sjyb</candidate>
-	<candidate_name>[河东乡]</candidate_name>
-	<candidate>m.0r3tkt1</candidate>
-	<candidate_name>[河东乡]</candidate_name>
-	<candidate>m.01wwt4</candidate>
-	<candidate_name>[东乡族]</candidate_name>
-	<candidate>m.0r4xw_2</candidate>
-	<candidate_name>[河东乡]</candidate_name>
-	<candidate>m.0r4kn63</candidate>
-	<candidate_name>[河东乡]</candidate_name>
-	<candidate>m.0r4mmh0</candidate>
-	<candidate_name>[河东乡]</candidate_name>
-	<candidate>m.044gbv</candidate>
-	<candidate_name>[东乡语]</candidate_name>
-	<candidate>m.0r4prvf</candidate>
-	<candidate_name>[河东乡]</candidate_name>
-	<candidate>m.02v9sd</candidate>
-	<candidate_name>[东乡町]</candidate_name>
 	<entity_id>m.04cy3mk</entity_id>
 <result>wrong</result>
 </mention>
@@ -1075,10 +530,6 @@
 	<candidate_name>[爱阿华县]</candidate_name>
 	<candidate>m.0ns19</candidate>
 	<candidate_name>[爱阿华县]</candidate_name>
-	<candidate>m.021xdq</candidate>
-	<candidate_name>[阿华田]</candidate_name>
-	<candidate>m.0v17bqs</candidate>
-	<candidate_name>[阿华]</candidate_name>
 	<entity_id>m.0t015</entity_id>
 <result>wrong</result>
 </mention>
@@ -1087,8 +538,7 @@
 	<name>本?拉丹</name>
 	<begin>135</begin>
 	<end>138</end>
-	<candidate>m.05w5q1</candidate>
-	<candidate_name>[伊本·拉班]</candidate_name>
+	<candidate>nil</candidate>
 	<entity_id>m.05mg9</entity_id>
 <result>wrong</result>
 </mention>
@@ -1097,25 +547,17 @@
 	<name>姚大嘴</name>
 	<begin>893</begin>
 	<end>895</end>
-	<candidate>m.0nmw3wf</candidate>
-	<candidate_name>[大嘴吧]</candidate_name>
-	<candidate>m.0dn9qmq</candidate>
-	<candidate_name>[大嘴巴]</candidate_name>
-	<candidate>m.0njrz1h</candidate>
-	<candidate_name>[赵大嘴]</candidate_name>
-	<candidate>m.07h17</candidate>
-	<candidate_name>[大嘴鸟]</candidate_name>
-	<candidate>m.02z1fsl</candidate>
-	<candidate_name>[大嘴鸟]</candidate_name>
-	<candidate>m.0df65f</candidate>
-	<candidate_name>[大嘴鵟]</candidate_name>
-	<candidate>m.0yr2pjb</candidate>
-	<candidate_name>[大嘴巴]</candidate_name>
-	<candidate>m.026bxqy</candidate>
-	<candidate_name>[大嘴鸟]</candidate_name>
-	<candidate>m.0ntl7b_</candidate>
-	<candidate_name>[大嘴吧]</candidate_name>
+	<candidate>nil</candidate>
 	<entity_id>m.0d27_dy</entity_id>
+<result>wrong</result>
+</mention>
+<mention id="CNA_CMN_20101027.0093_151_152">
+	<docid>CNA_CMN_20101027.0093</docid>
+	<name>隆安</name>
+	<begin>151</begin>
+	<end>152</end>
+	<candidate>nil</candidate>
+	<entity_id>m.07m1br</entity_id>
 <result>wrong</result>
 </mention>
 <mention id="bolt-cmn-DF-196-185723-2502398_1994_1996">
@@ -1123,29 +565,28 @@
 	<name>魔力鸟</name>
 	<begin>1994</begin>
 	<end>1996</end>
-	<candidate>m.02k5sc</candidate>
-	<candidate_name>[魔力红]</candidate_name>
-	<candidate>m.05x1z9</candidate>
-	<candidate_name>[拉密牌]</candidate_name>
+	<candidate>nil</candidate>
 	<entity_id>m.0378hn</entity_id>
 <result>wrong</result>
 </mention>
-<mention id="AFP_CMN_20081118.0008_142_158">
-	<docid>AFP_CMN_20081118.0008</docid>
-	<name>Mazda Motor Corp.</name>
-	<begin>142</begin>
-	<end>158</end>
-	<candidate>nil</candidate>
-	<entity_id>m.04x9h</entity_id>
-<result>wrong</result>
-</mention>
-<mention id="bolt-cmn-DF-196-185692-2815333_2372_2373">
-	<docid>bolt-cmn-DF-196-185692-2815333</docid>
-	<name>麦姐</name>
-	<begin>2372</begin>
-	<end>2373</end>
-	<candidate>nil</candidate>
-	<entity_id>m.01vs_v8</entity_id>
+<mention id="PDA_CMN_20070630.0053_321_322">
+	<docid>PDA_CMN_20070630.0053</docid>
+	<name>东山</name>
+	<begin>321</begin>
+	<end>322</end>
+	<candidate>m.07p11r</candidate>
+	<candidate_name>[东山]</candidate_name>
+	<candidate>m.02q05xb</candidate>
+	<candidate_name>[东山线]</candidate_name>
+	<candidate>m.02vkjy_</candidate>
+	<candidate_name>[东山县]</candidate_name>
+	<candidate>m.0wxysvl</candidate>
+	<candidate_name>[东山街道]</candidate_name>
+	<candidate>m.03md6t9</candidate>
+	<candidate_name>[东山县]</candidate_name>
+	<candidate>m.027dpby</candidate>
+	<candidate_name>[东山]</candidate_name>
+	<entity_id>m.03g_6x1</entity_id>
 <result>wrong</result>
 </mention>
 <mention id="bolt-cmn-DF-196-185661-3109334_355_356">
@@ -1162,10 +603,7 @@
 	<name>朱莉</name>
 	<begin>621</begin>
 	<end>622</end>
-	<candidate>m.047flbv</candidate>
-	<candidate_name>[马朱莉]</candidate_name>
-	<candidate>m.0g9ch1k</candidate>
-	<candidate_name>[朱莉亚]</candidate_name>
+	<candidate>nil</candidate>
 	<entity_id>m.0f4vbz</entity_id>
 <result>wrong</result>
 </mention>
@@ -1180,30 +618,6 @@
 	<candidate_name>[外交部]</candidate_name>
 	<candidate>m.03k0qv</candidate>
 	<candidate_name>[外务省]</candidate_name>
-	<candidate>m.0191_p</candidate>
-	<candidate_name>[外交]</candidate_name>
-	<candidate>m.0bvtd</candidate>
-	<candidate_name>[外交]</candidate_name>
-	<candidate>m.0bvsx</candidate>
-	<candidate_name>[外交]</candidate_name>
-	<candidate>m.080ntlp</candidate>
-	<candidate_name>[外交家, 外交官]</candidate_name>
-	<candidate>m.04cxmg</candidate>
-	<candidate_name>[伊朗外交部]</candidate_name>
-	<candidate>m.04f0x12</candidate>
-	<candidate_name>[缅甸外交部]</candidate_name>
-	<candidate>m.03c2syq</candidate>
-	<candidate_name>[苏联外交部]</candidate_name>
-	<candidate>m.0czb3d4</candidate>
-	<candidate_name>[希腊外交部]</candidate_name>
-	<candidate>m.028b8j9</candidate>
-	<candidate_name>[荷兰外交部]</candidate_name>
-	<candidate>m.06zgmb</candidate>
-	<candidate_name>[德国外交部]</candidate_name>
-	<candidate>m.01l2_d</candidate>
-	<candidate_name>[法国外交部]</candidate_name>
-	<candidate>m.025_nxz</candidate>
-	<candidate_name>[芬兰外交部]</candidate_name>
 	<entity_id>m.0c5lv5</entity_id>
 <result>wrong</result>
 </mention>
@@ -1218,30 +632,6 @@
 	<candidate_name>[外交部]</candidate_name>
 	<candidate>m.03k0qv</candidate>
 	<candidate_name>[外务省]</candidate_name>
-	<candidate>m.0191_p</candidate>
-	<candidate_name>[外交]</candidate_name>
-	<candidate>m.0bvtd</candidate>
-	<candidate_name>[外交]</candidate_name>
-	<candidate>m.0bvsx</candidate>
-	<candidate_name>[外交]</candidate_name>
-	<candidate>m.080ntlp</candidate>
-	<candidate_name>[外交家, 外交官]</candidate_name>
-	<candidate>m.04cxmg</candidate>
-	<candidate_name>[伊朗外交部]</candidate_name>
-	<candidate>m.04f0x12</candidate>
-	<candidate_name>[缅甸外交部]</candidate_name>
-	<candidate>m.03c2syq</candidate>
-	<candidate_name>[苏联外交部]</candidate_name>
-	<candidate>m.0czb3d4</candidate>
-	<candidate_name>[希腊外交部]</candidate_name>
-	<candidate>m.028b8j9</candidate>
-	<candidate_name>[荷兰外交部]</candidate_name>
-	<candidate>m.06zgmb</candidate>
-	<candidate_name>[德国外交部]</candidate_name>
-	<candidate>m.01l2_d</candidate>
-	<candidate_name>[法国外交部]</candidate_name>
-	<candidate>m.025_nxz</candidate>
-	<candidate_name>[芬兰外交部]</candidate_name>
 	<entity_id>m.0c5lv5</entity_id>
 <result>wrong</result>
 </mention>
