@@ -1,0 +1,664 @@
+  <query id="EL14_CMN_0001">
+    <name>陕北公学</name>
+    <docid>GMW_CMN_20100929.0076</docid>
+    <beg>496</beg>
+    <end>499</end>
+	<query_id>nil</entity_id>
+  </query>
+  <query id="EL14_CMN_0003">
+    <name>海峡两岸关系协会</name>
+    <docid>bolt-cmn-DF-205-185863-591820</docid>
+    <beg>13015</beg>
+    <end>13022</end>
+	<query_id>m.03q4vg</entity_id>
+  </query>
+  <query id="EL14_CMN_0004">
+    <name>阜新</name>
+    <docid>XIN_CMN_20091011.0178</docid>
+    <beg>429</beg>
+    <end>430</end>
+	<query_id>m.056rxg</entity_id>
+  </query>
+  <query id="EL14_CMN_0005">
+    <name>蔡卓妍</name>
+    <docid>XIN_CMN_20060105.0091</docid>
+    <beg>464</beg>
+    <end>466</end>
+	<query_id>m.038ncy</entity_id>
+  </query>
+  <query id="EL14_CMN_0006">
+    <name>张汉卿</name>
+    <docid>XIN_CMN_19920404.0132</docid>
+    <beg>192</beg>
+    <end>194</end>
+	<query_id>nil</entity_id>
+  </query>
+  <query id="EL14_CMN_0009">
+    <name>小帅虎</name>
+    <docid>PDA_CMN_20080418.0225</docid>
+    <beg>565</beg>
+    <end>567</end>
+	<query_id>nil</entity_id>
+  </query>
+  <query id="EL14_CMN_0010">
+    <name>华盛顿哥伦比亚特区</name>
+    <docid>PDA_CMN_20080213.0133</docid>
+    <beg>548</beg>
+    <end>557</end>
+	<query_id>m.0rh6k</entity_id>
+  </query>
+  <query id="EL14_CMN_0013">
+    <name>长岗</name>
+    <docid>CNS_CMN_20101220.0537</docid>
+    <beg>247</beg>
+    <end>248</end>
+	<query_id>nil</entity_id>
+  </query>
+  <query id="EL14_CMN_0014">
+    <name>孙中山</name>
+    <docid>bolt-cmn-DF-182-192249-6426481</docid>
+    <beg>108170</beg>
+    <end>108172</end>
+	<query_id>m.0m56y</entity_id>
+  </query>
+  <query id="EL14_CMN_0016">
+    <name>残联</name>
+    <docid>CNS_CMN_20100127.0802</docid>
+    <beg>160</beg>
+    <end>161</end>
+	<query_id>m.oj9ktcx</entity_id>
+  </query>
+  <query id="EL14_CMN_0017">
+    <name>北京大学</name>
+    <docid>bolt-cmn-DF-182-192251-6379094</docid>
+    <beg>4432</beg>
+    <end>4435</end>
+	<query_id>m.0jhjl</entity_id>
+  </query>
+  <query id="EL14_CMN_0019">
+    <name>小甜甜</name>
+    <docid>bolt-cmn-DF-205-185872-1180300</docid>
+    <beg>271</beg>
+    <end>273</end>
+	<query_id>m.015f7</entity_id>
+  </query>
+  <query id="EL14_CMN_0020">
+    <name>赵匡胤</name>
+    <docid>CNS_CMN_20100303.0279</docid>
+    <beg>212</beg>
+    <end>214</end>
+	<query_id>m.043fw2</entity_id>
+  </query>
+  <query id="EL14_CMN_0022">
+    <name>李登辉</name>
+    <docid>bolt-cmn-DF-205-185863-574782</docid>
+    <beg>2390</beg>
+    <end>2392</end>
+	<query_id>m.0fbnl</entity_id>
+  </query>
+  <query id="EL14_CMN_0023">
+    <name>宝山</name>
+    <docid>PDA_CMN_20080612.0224</docid>
+    <beg>141</beg>
+    <end>142</end>
+	<query_id>nil</entity_id>
+  </query>
+  <query id="EL14_CMN_0024">
+    <name>秋官</name>
+    <docid>PDA_CMN_20080220.0043</docid>
+    <beg>422</beg>
+    <end>423</end>
+	<query_id>m.04r8g7</entity_id>
+  </query>
+  <query id="EL14_CMN_0025">
+    <name>洪武皇帝</name>
+    <docid>XIN_CMN_20030208.0039</docid>
+    <beg>227</beg>
+    <end>230</end>
+	<query_id>m.015nm9</entity_id>
+  </query>
+  <query id="EL14_CMN_0026">
+    <name>大S</name>
+    <docid>bolt-cmn-DF-182-192231-4914877</docid>
+    <beg>381</beg>
+    <end>382</end>
+	<query_id>m.0dcfnz</entity_id>
+  </query>
+  <query id="EL14_CMN_0028">
+    <name>阿诺施瓦辛格</name>
+    <docid>bolt-cmn-DF-20-191611-3888181</docid>
+    <beg>332</beg>
+    <end>337</end>
+	<query_id>m.0tc7</entity_id>
+  </query>
+  <query id="EL14_CMN_0029">
+    <name>海协会</name>
+    <docid>bolt-cmn-DF-205-185863-585397</docid>
+    <beg>11082</beg>
+    <end>11084</end>
+	<query_id>m.03q4vg</entity_id>
+  </query>
+  <query id="EL14_CMN_0030">
+    <name>平川</name>
+    <docid>PDA_CMN_20090819.0495</docid>
+    <beg>200</beg>
+    <end>201</end>
+	<query_id>m.04n0stx</entity_id>
+  </query>
+  <query id="EL14_CMN_0032">
+    <name>中科院</name>
+    <docid>bolt-cmn-DF-20-191622-4026778</docid>
+    <beg>58</beg>
+    <end>60</end>
+	<query_id>m.0216st</entity_id>
+  </query>
+  <query id="EL14_CMN_0033">
+    <name>香港特別行政區</name>
+    <docid>CNA_CMN_20091015.0119</docid>
+    <beg>158</beg>
+    <end>164</end>
+	<query_id>m.03h64</entity_id>
+  </query>
+  <query id="EL14_CMN_0035">
+    <name>江城</name>
+    <docid>GMW_CMN_20100527.0225</docid>
+    <beg>146</beg>
+    <end>147</end>
+	<query_id>nil</entity_id>
+  </query>
+  <query id="EL14_CMN_0039">
+    <name>深圳</name>
+    <docid>CNS_CMN_20100906.0069</docid>
+    <beg>75</beg>
+    <end>76</end>
+	<query_id>m.0lbmv</entity_id>
+  </query>
+  <query id="EL14_CMN_0040">
+    <name>华府</name>
+    <docid>AFP_CMN_20060222.0008</docid>
+    <beg>67</beg>
+    <end>68</end>
+	<query_id>m.081yw</entity_id>
+  </query>
+  <query id="EL14_CMN_0042">
+    <name>周公</name>
+    <docid>bolt-cmn-DF-20-191613-3835738</docid>
+    <beg>8651</beg>
+    <end>8652</end>
+	<query_id>m.0d1lw9</entity_id>
+  </query>
+  <query id="EL14_CMN_0047">
+    <name>米国</name>
+    <docid>bolt-cmn-DF-182-192251-6383663</docid>
+    <beg>5137</beg>
+    <end>5138</end>
+	<query_id>m.09c7w0</entity_id>
+  </query>
+  <query id="EL14_CMN_0048">
+    <name>同济</name>
+    <docid>PDA_CMN_20091111.0594</docid>
+    <beg>233</beg>
+    <end>234</end>
+	<query_id>m.03jvm8</entity_id>
+  </query>
+  <query id="EL14_CMN_0050">
+    <name>圣路易斯</name>
+    <docid>bolt-cmn-DF-21-181074-2172</docid>
+    <beg>37866</beg>
+    <end>37869</end>
+	<query_id>m.06wxw</entity_id>
+  </query>
+  <query id="EL14_CMN_0051">
+    <name>司马迁</name>
+    <docid>CNS_CMN_20101115.0535</docid>
+    <beg>484</beg>
+    <end>486</end>
+	<query_id>m.06wfz</entity_id>
+  </query>
+  <query id="EL14_CMN_0052">
+    <name>通州</name>
+    <docid>CNS_CMN_20100412.0068</docid>
+    <beg>60</beg>
+    <end>61</end>
+	<query_id>m.06zqdg</entity_id>
+  </query>
+  <query id="EL14_CMN_0053">
+    <name>奥兰多</name>
+    <docid>AFP_CMN_20100111.0011</docid>
+    <beg>387</beg>
+    <end>389</end>
+	<query_id>m.0ply0</entity_id>
+  </query>
+  <query id="EL14_CMN_0055">
+    <name>中国作家协会</name>
+    <docid>bolt-cmn-DF-196-185735-125025</docid>
+    <beg>159</beg>
+    <end>164</end>
+	<query_id>m.0yx_zt8</entity_id>
+  </query>
+  <query id="EL14_CMN_0057">
+    <name>老虎伍兹</name>
+    <docid>AFP_CMN_20091204.0046</docid>
+    <beg>135</beg>
+    <end>138</end>
+	<query_id>m.0bwdn</entity_id>
+  </query>
+  <query id="EL14_CMN_0058">
+    <name>宋庆龄</name>
+    <docid>bolt-cmn-DF-205-185863-575781</docid>
+    <beg>404</beg>
+    <end>406</end>
+	<query_id>m.01d086</entity_id>
+  </query>
+  <query id="EL14_CMN_0060">
+    <name>朱总司令</name>
+    <docid>bolt-cmn-DF-20-191610-15132970</docid>
+    <beg>14229</beg>
+    <end>14232</end>
+	<query_id>m.01hljt</entity_id>
+  </query>
+  <query id="EL14_CMN_0064">
+    <name>河南</name>
+    <docid>PDA_CMN_20080326.0250</docid>
+    <beg>146</beg>
+    <end>147</end>
+	<query_id>m.01669b</entity_id>
+  </query>
+  <query id="EL14_CMN_0065">
+    <name>薄熙来</name>
+    <docid>bolt-cmn-DF-21-181075-3296</docid>
+    <beg>5472</beg>
+    <end>5474</end>
+	<query_id>m.02lwg2</entity_id>
+  </query>
+  <query id="EL14_CMN_0067">
+    <name>外交部</name>
+    <docid>PDA_CMN_20101003.0007</docid>
+    <beg>168</beg>
+    <end>170</end>
+	<query_id>m.02626pc</entity_id>
+  </query>
+  <query id="EL14_CMN_0068">
+    <name>劳德岱堡</name>
+    <docid>AFP_CMN_20100111.0011</docid>
+    <beg>354</beg>
+    <end>357</end>
+  </query>
+  <query id="EL14_CMN_0069">
+    <name>薄书记</name>
+    <docid>bolt-cmn-DF-20-191610-2207165</docid>
+    <beg>4108</beg>
+    <end>4110</end>
+	<query_id>m.02lwg2</entity_id>
+  </query>
+  <query id="EL14_CMN_0071">
+    <name>杰伦</name>
+    <docid>bolt-cmn-DF-21-181169-83368</docid>
+    <beg>706</beg>
+    <end>707</end>
+	<query_id>m.02nfjp</entity_id>
+  </query>
+  <query id="EL14_CMN_0072">
+    <name>唐三藏</name>
+    <docid>XIN_CMN_20060805.0016</docid>
+    <beg>644</beg>
+    <end>646</end>
+	<query_id>m.01c_t4</entity_id>	 
+  </query>
+  <query id="EL14_CMN_0078">
+    <name>东山</name>
+    <docid>XIN_CMN_20091207.0149</docid>
+    <beg>565</beg>
+    <end>566</end>
+	<query_id>m.02vkjy_</entity_id>	
+  </query>
+  <query id="EL14_CMN_0079">
+    <name>西安</name>
+    <docid>XIN_CMN_20070911.0054</docid>
+    <beg>295</beg>
+    <end>296</end>
+	<query_id>m.0kzd9</entity_id>
+  </query>
+  <query id="EL14_CMN_0081">
+    <name>周副主席</name>
+    <docid>bolt-cmn-DF-20-191613-19973532</docid>
+    <beg>590</beg>
+    <end>593</end>
+	<query_id>m.0dbk8</entity_id>
+  </query>
+  <query id="EL14_CMN_0082">
+    <name>越南</name>
+    <docid>XIN_CMN_20040916.0047</docid>
+    <beg>68</beg>
+    <end>69</end>
+	<query_id>m.01crd5</entity_id>
+  </query>
+  <query id="EL14_CMN_0084">
+    <name>吉林大学</name>
+    <docid>XIN_CMN_20020114.0087</docid>
+    <beg>61</beg>
+    <end>64</end>
+	<query_id>m.03pwy6</entity_id>
+  </query>
+  <query id="EL14_CMN_0085">
+    <name>吴奇隆</name>
+    <docid>bolt-cmn-DF-205-185862-199383</docid>
+    <beg>1825</beg>
+    <end>1827</end>
+	<query_id>m.0f77j8</entity_id>
+  </query>
+  <query id="EL14_CMN_0090">
+    <name>华国锋</name>
+    <docid>bolt-cmn-DF-20-191613-3837196</docid>
+    <beg>1288</beg>
+    <end>1290</end>
+	<query_id>m.0pl3k</entity_id>
+  </query>
+  <query id="EL14_CMN_0091">
+    <name>联合国安理会</name>
+    <docid>bolt-cmn-DF-205-185863-593607</docid>
+    <beg>10757</beg>
+    <end>10762</end>
+	<query_id>m.07vnr</entity_id>
+  </query>
+  <query id="EL14_CMN_0092">
+    <name>小威廉丝</name>
+    <docid>AFP_CMN_20100119.0035</docid>
+    <beg>149</beg>
+    <end>152</end>
+	<query_id>m.015z4j</entity_id>
+  </query>
+  <query id="EL14_CMN_0182">
+    <name>施大爷</name>
+    <docid>XIN_CMN_19921222.0007</docid>
+    <beg>404</beg>
+    <end>406</end>
+	<query_id>nil</query_id>
+  </query>
+  <query id="EL14_CMN_0183">
+    <name>衣阿华</name>
+    <docid>XIN_CMN_19930420.0064</docid>
+    <beg>147</beg>
+    <end>149</end>
+	<query_id>nil</query_id>
+  </query>
+  <query id="EL14_CMN_0184">
+    <name>毛太祖</name>
+    <docid>bolt-cmn-DF-205-185863-592461</docid>
+    <beg>1238</beg>
+    <end>1240</end>
+	<query_id>nil</query_id>
+  </query>
+    <query id="EL14_CMN_0194">
+    <name>海阳</name>
+    <docid>XIN_CMN_19950626.0024</docid>
+    <beg>217</beg>
+    <end>218</end>
+    <query_id>m.0260jh_</query_id>
+  </query>
+  <query id="EL14_CMN_0195">
+    <name>篮球之神</name>
+    <docid>CNS_CMN_20090911.0056</docid>
+    <beg>180</beg>
+    <end>183</end>
+    <query_id>m.054c1</query_id>
+  </query>
+  <query id="EL14_CMN_0197">
+    <name>马景涛</name>
+    <docid>bolt-cmn-DF-196-185692-2811806</docid>
+    <beg>1358</beg>
+    <end>1360</end>
+    <query_id>m.010fdtms</query_id>
+  </query>
+  <query id="EL14_CMN_0198">
+    <name>少帅</name>
+    <docid>XIN_CMN_20050921.0121</docid>
+    <beg>221</beg>
+    <end>222</end>
+    <query_id>m.089hk</query_id>
+  </query>
+  <query id="EL14_CMN_0199">
+    <name>单马锡</name>
+    <docid>XIN_CMN_19970824.0042</docid>
+    <beg>472</beg>
+    <end>474</end>
+    <query_id>nil</query_id>
+  </query>
+  <query id="EL14_CMN_0201">
+    <name>医科大学</name>
+    <docid>XIN_CMN_19951119.0048</docid>
+    <beg>398</beg>
+    <end>401</end>
+    <query_id>m.04qbgrr</query_id>
+  </query>
+  <query id="EL14_CMN_0202">
+    <name>麦蒂</name>
+    <docid>bolt-cmn-DF-211-187152-4425809</docid>
+    <beg>799</beg>
+    <end>800</end>
+    <query_id>m.02j8fb</query_id>
+  </query>
+  <query id="EL14_CMN_0203">
+    <name>总工会</name>
+    <docid>XIN_CMN_20060831.0111</docid>
+    <beg>266</beg>
+    <end>268</end>
+    <query_id>nil</query_id>
+  </query>
+  <query id="EL14_CMN_0204">
+    <name>怡和</name>
+    <docid>XIN_CMN_20060427.0030</docid>
+    <beg>416</beg>
+    <end>417</end>
+    <query_id>nil</query_id>
+  </query>
+  <query id="EL14_CMN_0205">
+    <name>达契亚</name>
+    <docid>XIN_CMN_20040612.0057</docid>
+    <beg>301</beg>
+    <end>303</end>
+    <query_id>nil</query_id>
+  </query>
+  <query id="EL14_CMN_0206">
+    <name>刘委员</name>
+    <docid>bolt-cmn-DF-20-191610-2216887</docid>
+    <beg>2218</beg>
+    <end>2220</end>
+    <query_id>nil</query_id>
+  </query>
+  <query id="EL14_CMN_0208">
+    <name>张国荣</name>
+    <docid>bolt-cmn-DF-196-185735-15891368</docid>
+    <beg>812</beg>
+    <end>814</end>
+    <query_id>m.01d1yr</query_id>
+  </query>
+  <query id="EL14_CMN_0209">
+    <name>南洋公学</name>
+    <docid>XIN_CMN_20011124.0005</docid>
+    <beg>591</beg>
+    <end>594</end>
+    <query_id>m.01j8l9</query_id>
+  </query>
+  <query id="EL14_CMN_0210">
+    <name>马景涛</name>
+    <docid>bolt-cmn-DF-196-185692-2813147</docid>
+    <beg>3496</beg>
+    <end>3498</end>
+    <query_id>m.010fdtms</query_id>
+  </query>
+  <query id="EL14_CMN_0211">
+    <name>汉卿</name>
+    <docid>PDA_CMN_20070420.0065</docid>
+    <beg>254</beg>
+    <end>255</end>
+    <query_id>nil</query_id>
+  </query>
+  <query id="EL14_CMN_0212">
+    <name>师范大学</name>
+    <docid>XIN_CMN_19940907.0281</docid>
+    <beg>238</beg>
+    <end>241</end>
+    <query_id>nil</query_id>
+  </query>
+  <query id="EL14_CMN_0213">
+    <name>范爷</name>
+    <docid>bolt-cmn-DF-182-192231-4921119</docid>
+    <beg>527</beg>
+    <end>528</end>
+    <query_id>m.09wn3y</query_id>
+  </query>
+  <query id="EL14_CMN_0214">
+    <name>总工会</name>
+    <docid>CNS_CMN_20100910.0290</docid>
+    <beg>175</beg>
+    <end>177</end>
+    <query_id>nil</query_id>
+  </query>
+  <query id="EL14_CMN_0216">
+    <name>平顺</name>
+    <docid>PDA_CMN_20080602.0305</docid>
+    <beg>155</beg>
+    <end>156</end>
+    <query_id>m.053cpf</query_id>
+  </query>
+  <query id="EL14_CMN_0217">
+    <name>妇幼保健院</name>
+    <docid>XIN_CMN_20040805.0256</docid>
+    <beg>417</beg>
+    <end>421</end>
+    <query_id>nil</query_id>
+  </query>
+  <query id="EL14_CMN_0218">
+    <name>美女总理</name>
+    <docid>bolt-cmn-DF-20-191611-3873175</docid>
+    <beg>478</beg>
+    <end>481</end>
+    <query_id>nil</query_id>
+  </query>
+  <query id="EL14_CMN_0220">
+    <name>杨太真</name>
+    <docid>bolt-cmn-DF-182-192255-6448638</docid>
+    <beg>676</beg>
+    <end>678</end>
+    <query_id>/m.01rjg7</query_id>
+  </query>
+  <query id="EL14_CMN_0222">
+    <name>交大</name>
+    <docid>XIN_CMN_19960408.0072</docid>
+    <beg>259</beg>
+    <end>260</end>
+    <query_id>nil</query_id>
+  </query>
+  <query id="EL14_CMN_0223">
+    <name>三藩市</name>
+    <docid>XIN_CMN_20030321.0051</docid>
+    <beg>251</beg>
+    <end>253</end>
+    <query_id>m.0d6lp</query_id>
+  </query>
+  <query id="EL14_CMN_0224">
+    <name>李老夫子</name>
+    <docid>bolt-cmn-DF-205-185863-586574</docid>
+    <beg>1912</beg>
+    <end>1915</end>
+    <query_id>nil</query_id>
+  </query>
+  <query id="EL14_CMN_0225">
+    <name>安吉丽娜朱莉</name>
+    <docid>bolt-cmn-DF-211-187123-5120758</docid>
+    <beg>1307</beg>
+    <end>1312</end>
+    <query_id>m.0f4vbz</query_id>
+  </query>
+  <query id="EL14_CMN_0226">
+    <name>哈莉·贝瑞</name>
+    <docid>bolt-cmn-DF-182-192231-4930679</docid>
+    <beg>4101</beg>
+    <end>4105</end>
+    <query_id>m.03knl</query_id>
+  </query>
+  <query id="EL14_CMN_0228">
+    <name>翁山苏姬</name>
+    <docid>AFP_CMN_20040719.0049</docid>
+    <beg>178</beg>
+    <end>181</end>
+    <query_id>m.011p3</query_id>
+  </query>
+  <query id="EL14_CMN_0229">
+    <name>坦帕</name>
+    <docid>AFP_CMN_20100111.0011</docid>
+    <beg>377</beg>
+    <end>378</end>
+    <query_id>m.0n1rj</query_id>
+  </query>
+  <query id="EL14_CMN_0230">
+    <name>清华大学</name>
+    <docid>GMW_CMN_20101025.0075</docid>
+    <beg>323</beg>
+    <end>326</end>
+    <query_id>m.0jksm</query_id>
+  </query>
+  <query id="EL14_CMN_0232">
+    <name>羊城</name>
+    <docid>CNS_CMN_20100826.0485</docid>
+    <beg>189</beg>
+    <end>190</end>
+    <query_id>m.0393g</query_id>
+  </query>
+  <query id="EL14_CMN_0233">
+    <name>范冰冰</name>
+    <docid>bolt-cmn-DF-182-192231-4910362</docid>
+    <beg>2140</beg>
+    <end>2142</end>
+    <query_id>m.09wn3y</query_id>
+  </query>
+  <query id="EL14_CMN_0234">
+    <name>万峰</name>
+    <docid>PDA_CMN_20101029.0025</docid>
+    <beg>190</beg>
+    <end>191</end>
+    <query_id>nil</query_id>
+  </query>
+  <query id="EL14_CMN_0235">
+    <name>江青</name>
+    <docid>CNS_CMN_20100830.0118</docid>
+    <beg>61</beg>
+    <end>62</end>
+    <query_id>m.0hcbg</query_id>
+  </query>
+  <query id="EL14_CMN_0236">
+    <name>约瑟夫・斯大林</name>
+    <docid>PDA_CMN_20070313.0139</docid>
+    <beg>175</beg>
+    <end>181</end>
+    <query_id>m.03_lf</query_id>
+  </query>
+  <query id="EL14_CMN_0237">
+    <name>妇幼保健院</name>
+    <docid>CNS_CMN_20100819.0453</docid>
+    <beg>273</beg>
+    <end>277</end>
+    <query_id>nil</query_id>
+  </query>
+  <query id="EL14_CMN_0238">
+    <name>白云</name>
+    <docid>CNS_CMN_20101017.0128</docid>
+    <beg>174</beg>
+    <end>175</end>
+    <query_id>m.063mcv</query_id>
+  </query>
+  <query id="EL14_CMN_0240">
+    <name>刘翔</name>
+    <docid>bolt-cmn-DF-211-187152-4445107</docid>
+    <beg>1447</beg>
+    <end>1448</end>
+    <query_id>m.03kt92</query_id>
+  </query>
+  <query id="EL14_CMN_0241">
+    <name>社科院</name>
+    <docid>bolt-cmn-DF-196-185667-2993638</docid>
+    <beg>205</beg>
+    <end>207</end>
+    <query_id>m.021hb0</query_id>
+  </query>
